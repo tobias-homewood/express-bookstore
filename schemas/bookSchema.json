@@ -25,6 +25,7 @@
         },
         "amazon_url": {
             "type": "string",
+            "format": "uri",
             "default": "",
             "title": "The amazon_url Schema",
             "examples": [
